@@ -1,0 +1,8 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" >
+  <!-- Bold N -->
+  <text x="20" y="160" font-family="Times, sans-serif" font-weight="bold" font-size="150" fill="#222">N</text>
+
+  <!-- Swoosh path -->
+  <path d="M30 140 Q100 50 170 140" stroke="#FF5722" stroke-width="11" fill="none" stroke-linecap="round" />
+</svg>
+
